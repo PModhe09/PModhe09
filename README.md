@@ -18,6 +18,7 @@
    <a href="https://www.instagram.com/pmodhe_09"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/prathmesh.modhe.16"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
+
 <h3 align="left">Coding Profile</h3>
   <div align="left">
     <img href="https://leetcode.com/PModhe_09" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode" />
@@ -58,9 +59,11 @@
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-FF9900.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>  <br/>
 
+<!--
 <a href="https://github.com/PModhe09">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PModhe09&theme=dark&hide_langs_below=1" />
 </a>
+-->
 <!-- <a href="https://github.com/PModhe09">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=PModhe09&show_icons=true&theme=dark" />
 </a> 
