@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm <a href="https://www.linkedin.com/in/pmodhe2001/" target="_blank"> Prathmesh Modhe </a></h1>
-<h3 align="center"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=React.js+Developer+%3A)" /> </h3>
+<h3 align="center"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full-Stack+Developer+%3A)" /> </h3>
 
 <!--
 🌱 Learning Never Stops 🚀
