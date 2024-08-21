@@ -4,10 +4,10 @@
 <!--
 🌱 Learning Never Stops 🚀
 
-- 💬 Major Skills **Front-End Development**
+- 💬 Major Skills **Full Stack Development**
 -->
 <!--
-- 👨‍💻 Check out my personal portfolio : **<a href=" " target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="" target="_blank">Portfolio</a>**
 -->
 
 
@@ -36,6 +36,9 @@
 <img alt="ReactJS" src="https://img.shields.io/badge/React JS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/Node JS-%2343853D?style=for-the-badge&logo=node&logoColor=white"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="Asp Dot Net Core" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img alt="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
+  
 <!-- <img alt="ViteJS" src="https://img.shields.io/badge/Vite JS-%23430098.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-007FFF?style=for-the-badge&logo=docker&logoColor=white"/> -->
 </div>
@@ -44,6 +47,8 @@
 <div align="left">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> 
+  <img alt="C#" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> 
 </div>
 
 <!--
@@ -51,25 +56,16 @@
 <div align="left">
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-42759C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MS SQL Server" src=" https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 -->
 
-<h3 align="left">Hosting :</h3>
-<div align="left">
-  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<h3 align="left">Cloud Services</h3>
+<div align="left"> 
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-FF9900.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </div>  <br/>
 
-<!--
-<a href="https://github.com/PModhe09">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PModhe09&theme=dark&hide_langs_below=1" />
-</a>
--->
-<!-- <a href="https://github.com/PModhe09">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=PModhe09&show_icons=true&theme=dark" />
-</a> 
-<div>
-  <h1>My Projects</h1>
-  <p><strong><a href="https://amitdev244245.github.io/calculator">Live</a> &nbsp; <a href="https://github.com/amitdev244245/calculator">Repo</a> &emsp; Calculator</strong></p>
-  <p><strong><a href="https://amitdev244245.github.io/movie-app">Live</a> &nbsp; <a href="https://github.com/amitdev244245/movie-app">Repo</a> &emsp; MovieApp</strong></p>
--->
