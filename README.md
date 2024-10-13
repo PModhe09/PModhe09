@@ -42,7 +42,7 @@
 <!-- <img alt="ViteJS" src="https://img.shields.io/badge/Vite JS-%23430098.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-007FFF?style=for-the-badge&logo=docker&logoColor=white"/> -->
 </div>
-<div align="right">
+<div align="left">
 
 [![Languages % on my Github Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=PModhe09&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
