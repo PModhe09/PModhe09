@@ -42,7 +42,10 @@
 <!-- <img alt="ViteJS" src="https://img.shields.io/badge/Vite JS-%23430098.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-007FFF?style=for-the-badge&logo=docker&logoColor=white"/> -->
 </div>
+<div align="right">
 
+[![Languages % on my Github Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=PModhe09&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <h3 align="left">Languages :</h3>
 <div align="left">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
